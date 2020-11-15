@@ -10,7 +10,7 @@ with open("text.txt", mode="r") as s_file:
     print(unique_word)
 
     with open("unique_words.txt", mode="w") as write_file:
-        for item in unique_word:
+        for item in sorted(unique_word):
             write_file.write(item)
             write_file.write("\n")
 
