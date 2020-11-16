@@ -7,3 +7,4 @@ Basic Python Concepts
 `if-else`
 `loop`
 `function`
+`file-read-right`
