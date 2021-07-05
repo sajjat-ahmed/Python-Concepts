@@ -8,9 +8,3 @@ Basic Python Concepts
 `loop`
 `function`
 `file-read-right`
-
-
-
-
-
-
