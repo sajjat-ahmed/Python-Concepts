@@ -5,3 +5,10 @@ if number % 2 == 0:
 else:
     print("This number is Odd")
     
+
+    
+    
+    
+    
+    
+    
